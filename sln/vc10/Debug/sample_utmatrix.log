@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (gtest.vcxproj, test_utmatrix.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  sample_matrix.cpp
+C:\Users\dvoro\Desktop\коды\матрица\samples\sample_matrix.cpp : fatal error C1073: Внутренняя ошибка при выполнении добавочной компиляции (файл компилятора: D:\agent\_work\20\s\src\vctools\Compiler\CxxFE\sl\p1\c\main.c, строка: 1037)

@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (gtest.vcxproj, sample_utmatrix.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  test_tvector.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: ..\..\test\test_tvector.cpp: No such file or directory,
+  test_tmatrix.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: ..\..\test\test_tmatrix.cpp: No such file or directory,
+  test_main.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: ..\..\test\test_main.cpp: No such file or directory,
+  Создание кода...
